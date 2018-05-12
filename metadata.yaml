@@ -1,0 +1,35 @@
+_repo: The-Green-God_33019
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schabelitz, R. F. (Rudolph Frederick)
+    alias: Schabelitz, Rudolph Frederick
+    birthdate: 1884
+    gutenberg_agent_id: '7952'
+    url: http://www.gutenberg.org/2009/agents/7952
+covers:
+- cover_type: archival
+  image_path: 33019-h/images/ggcover.jpg
+creator:
+  author:
+    agent_name: Kummer, Frederic Arnold
+    alias: Fredericks, Arnold
+    birthdate: 1873
+    deathdate: 1943
+    gutenberg_agent_id: '33949'
+    url: http://www.gutenberg.org/2009/agents/33949
+description: ''
+gutenberg_issued: '2010-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33019'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+title: The Green God
+url: http://www.gutenberg.org/ebooks/33019
