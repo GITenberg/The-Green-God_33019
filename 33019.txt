@@ -1039,7 +1039,7 @@ before, with no immediate results. Presently, however, he stepped toward
 the front of the house. There, in the soft gravel, were the prints of a
 woman's feet, leading from the corner of the path to the front entrance.
 I bent down and examined them with curious eyes, then recoiled with a
-cry of dismay. The footprints lead in one direction only, and that was
+cry of dismay. The footprints led in one direction only, and that was
 toward the front door. In a flash I realized what theory McQuade would
 at once construct in his mind. The murderer, reaching the porch roof
 from the hallway, and obtaining access to the murdered man's room
@@ -1317,7 +1317,7 @@ fast deserting her.
 "Did you remove your clothing?"
 
 "I did not. I threw myself upon the bed until--" She hesitated, and I
-suddenly saw the snare into which she had been lead. When she appeared
+suddenly saw the snare into which she had been led. When she appeared
 in the hallway at the time of the murder she wore a long embroidered
 Chinese dressing gown. Yet she had just stated that she had not
 undressed. McQuade, who seemed to have the mind of a hawk, seized upon
@@ -1370,7 +1370,7 @@ is innocent. Miss Temple has, I fear, not been entirely frank with me.
 It is my duty to search her room at once--and I trust that you will not
 attempt to interpose any obstacles to my doing so." He started toward
 the door, and Major Temple and I followed reluctantly enough. With a
-growl of suppressed rage the girl's father lead the way to her room to
+growl of suppressed rage the girl's father led the way to her room to
 which she had not herself returned. As though by instinct, the detective
 went to a large closet between the dressing-room and bedroom, threw it
 open, and after a search of but a few moments drew forth a pair of boots
@@ -1443,7 +1443,7 @@ the house, as he believes you did, early this morning."
 
 "Because, in the first place, he found footprints--the footprints of a
 woman's shoe, in the gravel walk, from the west corner of the porch to
-the main entrance. They lead only one way. After questioning you, he
+the main entrance. They led only one way. After questioning you, he
 searched your room, and found the skirt and shoes which you wore, both
 wet and covered with mud. The rain did not stop until three or four this
 morning. The footprints were made after the rain, or they would have
@@ -1469,7 +1469,7 @@ certainly am not obliged to tell the police my very thoughts."
 
 Her persistency in evading any explanation of her actions of the morning
 surprised and annoyed me. "You will remember, Miss Temple, that I said
-the footprints lead in one direction only, and that was toward the
+the footprints led in one direction only, and that was toward the
 house. Mr. McQuade does not believe that you left the house in the same
 way that you returned to it."
 
@@ -1552,7 +1552,7 @@ that, had he entered the room and committed the murder, he could in no
 possible way have bolted the window himself, from without, after leaving
 it. I walked along in silence, my mind confused, uncertain what to
 believe and what not, yet, as I looked at the strong, beautiful face of
-the girl beside me, I could not think that, whatever she might be lead
+the girl beside me, I could not think that, whatever she might be led
 to do for the sake of someone else, she could ever have committed such a
 crime herself. I also remembered suddenly Major Temple's angry remark,
 made to Robert Ashton as they stood in the hall after dinner the night
@@ -2304,8 +2304,8 @@ pleasure of the expedition I should make on the morrow to The Oaks and
 the happy tidings I should bring to Muriel. I had thought of her so
 continuously, since leaving there, and felt so keenly the loss of her
 companionship, slight as it had so far been, that I knew that hereafter
-all roads, for me, would lead to Exeter until the day came when I might
-lead her from it as my wife. It was while occupied in these dreams that
+all roads, for me, would led to Exeter until the day came when I might
+led her from it as my wife. It was while occupied in these dreams that
 I felt my cab draw up alongside the curb, just as the hour of midnight
 was striking from Old St. Paul's. I dismissed my man with a shilling for
 his pains, and ascended the steps of Number 30.
@@ -3738,7 +3738,7 @@ to the main road to the town."
 
 I observed that Miss Temple was showing a greater and greater appearance
 of distress as the magistrate pursued inexorably the line of questioning
-that would lead her to the disclosures which I knew she feared to make.
+that would led her to the disclosures which I knew she feared to make.
 Her face, white and drawn, twitched pathetically under the stress of her
 emotions. She spoke in a low, penetrating voice, little more than a
 whisper, yet so silent was the court-room that what she said was audible
@@ -4204,7 +4204,7 @@ about the house somewhere. Sergeant McQuade has the one usually left in
 the door."
 
 He disappeared for a few moments, then returned with several keys upon a
-wire ring. "One of these will open it, I think," he said, and lead the
+wire ring. "One of these will open it, I think," he said, and led the
 way to the green room, Muriel and I following him. "Poor dog," he said
 as we hastily ascended the stairs, "he must be dying for food, or a
 drink of water."
@@ -4235,7 +4235,7 @@ motioned to me to go ahead, and he followed me and closed the door.
 
 "Yes, he is there." The Major's tone was grave and solemn. "He is there,
 Muriel, and he is dead. I do not know what is the secret of that room,
-but I shall never enter it again." He turned from us, and lead the way
+but I shall never enter it again." He turned from us, and led the way
 down the hall.
 
 "Dead!" said Muriel, turning to me. "Is it really true?"
@@ -4621,7 +4621,7 @@ I hope to explain to all of you just what happened. But I would not
 advise you to use it as a guest chamber, in future," I concluded with a
 slight laugh.
 
-The Major lead the way, with Sergeant McQuade at his heels. The little
+The Major led the way, with Sergeant McQuade at his heels. The little
 man from Scotland Yard was all professional eagerness. He felt, no
 doubt, that his reputation as a detective had been brought into
 question. He had worked on the case for nearly a week and had succeeded
@@ -4848,7 +4848,7 @@ in the house had been installed by its former occupant and owner, a
 native of Brazil, unused to our cold English winters. It consisted of a
 series of sheet iron pipes, leading from a large furnace in the cellar.
 The pipe which supplied the heat for the green room, whether by accident
-or design, lead directly from the combustion chamber of the furnace
+or design, led directly from the combustion chamber of the furnace
 instead of from a hot-air chamber, as was the case with the other pipes.
 The consequence was that while the hot air taken to the other rooms was
 pure air, drawn from without and heated, that which supplied the green
